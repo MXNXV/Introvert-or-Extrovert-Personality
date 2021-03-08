@@ -26,3 +26,4 @@ We will use a TensorFlow RNN to make our predictions
  If the probability value is greater than or equal to 50%, the example is being classified as extrovert. If the value is less than 50%, the example is being classified as introvert.
 
 
+![alt text](http://url/to/img.png)
